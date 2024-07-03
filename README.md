@@ -1,0 +1,1 @@
+Im not entirely sure whats about to go down, but i think its going to be an html webpage. I am going to try and use the terminal to save shit like a good dev, but damn, I be messing up lmao. by the end of this project, I hope to gain a deeper understanding of how to employ basic html tags and how to use my terminal to create new files, save my files, etc.
